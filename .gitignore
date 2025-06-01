@@ -151,3 +151,10 @@ data/
 
 # Text Editor / IDE Files
 .vscode
+
+# cache files
+exact_dedup_cache/
+fuzzy_dedup_cache/
+sem_cache/
+*_dedup_cache*/
+*_cache_debug/
